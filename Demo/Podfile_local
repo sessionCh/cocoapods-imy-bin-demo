@@ -5,6 +5,6 @@ use_binaries!
 #需要替换Podfile里面的组件才写到这里
 target 'Demo' do
 
-pod 'YYModel', :path => '../YYModel'
+#pod 'YYModel', :path => '../YYModel'
 
 end
